@@ -1,0 +1,36 @@
+#music, #contact, #other{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+/*#header {
+    width:100%;
+    word-wrap:break-word;
+}*/
+
+/*#discographyList li {
+    border-bottom:1px dotted darkblue;
+}*/
+
+* {
+    background-color:black;
+    color:whitesmoke;
+    list-style: none;
+}
+
+#mayday {
+    color:orangered;
+}
+
+#deertracks {
+    color:green;
+}
+
+#vmm {
+    color:teal;
+}
+
+#wavesmash {
+    color:greenyellow;
+}
+
